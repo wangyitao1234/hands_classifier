@@ -2,6 +2,11 @@
 
   hands_detect_mouduly.py可以用来收集数据集  
   
+  keras_model.h5是训练好的模型，labels.txt是标签  
+  
+  
   数据集在Techable Machine上训练  
   
   test.py可以对手势进行分类
+  
+  
